@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-23T22:24:36 IST" name="Surefire suite" finished-at="2021-04-23T22:24:36 IST" duration-ms="107">
+    <groups>
+    </groups>
+    <test started-at="2021-04-23T22:24:36 IST" name="Surefire test" finished-at="2021-04-23T22:24:36 IST" duration-ms="107">
+      <class name="Sahir.Mavenjava.databaseTest">
+        <test-method signature="DataString()[pri:0, instance:Sahir.Mavenjava.databaseTest@12405818]" started-at="2021-04-23T22:24:36 IST" name="DataString" finished-at="2021-04-23T22:24:36 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataString -->
+        <test-method signature="Database()[pri:0, instance:Sahir.Mavenjava.databaseTest@12405818]" started-at="2021-04-23T22:24:36 IST" name="Database" finished-at="2021-04-23T22:24:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Database -->
+      </class> <!-- Sahir.Mavenjava.databaseTest -->
+      <class name="Sahir.Mavenjava.SizingUITest">
+        <test-method signature="SizingUI()[pri:0, instance:Sahir.Mavenjava.SizingUITest@1e9e725a]" started-at="2021-04-23T22:24:36 IST" name="SizingUI" finished-at="2021-04-23T22:24:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SizingUI -->
+        <test-method signature="Sizingunit()[pri:0, instance:Sahir.Mavenjava.SizingUITest@1e9e725a]" started-at="2021-04-23T22:24:36 IST" name="Sizingunit" finished-at="2021-04-23T22:24:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sizingunit -->
+      </class> <!-- Sahir.Mavenjava.SizingUITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
