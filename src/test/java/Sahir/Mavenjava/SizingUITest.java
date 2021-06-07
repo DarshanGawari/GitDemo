@@ -8,6 +8,10 @@ public class SizingUITest {
 	public void SizingUI() 
 	{
 		System.out.println("Szing UI");
+		System.out.println("Darshan in Github");
+		System.out.println("Jyoti Jidnyasa");
+		
+		
 	}
 	@Test
 	public void Sizingunit() 
